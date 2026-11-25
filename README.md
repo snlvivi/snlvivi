@@ -5,7 +5,13 @@
   <h1>snlvivi</h1>
 
   <p><strong>Développeur web &amp; systèmes</strong></p>
-  <p>Curieux, rigoureux, toujours en train d’apprendre quelque chose de nouveau.</p>
+  <p><em>Toujours en train d’apprendre quelque chose de nouveau.</em></p>
+  <p><em>Et toujours prêt à rigoler. 😄</em></p>
+
+  <p>
+    <img src="https://img.shields.io/badge/Apprentissage-perp%C3%A9tuel-58A6FF?style=flat-square" alt="Apprentissage perpétuel" />
+    <img src="https://img.shields.io/badge/Humour-toujours-238636?style=flat-square" alt="Humour toujours" />
+  </p>
 
   <a href="https://github.com/snlvivi">
     <img src="https://img.shields.io/badge/snlvivi-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Profil GitHub de snlvivi" />
